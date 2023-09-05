@@ -1,0 +1,2 @@
+El código anterior muestra tres formas diferentes de iterar sobre un bucle en JavaScript. El bucle `do while` se ejecuta al menos una vez, incluso si la condición es falsa. El bucle `for` se ejecuta mientras la condición sea verdadera. El bucle `while` se ejecuta mientras la condición sea verdadera.
+En el ejemplo anterior, los tres bucles imprimen los números del 0 al 4 en la consola.
